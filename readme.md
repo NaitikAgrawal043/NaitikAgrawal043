@@ -70,7 +70,7 @@
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaitikAgrawal043&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="NaitikAgrawal043" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaitikAgrawal043&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="NaitikAgrawal043" /></p> -->
 
 <br>
 <br><br>
@@ -126,13 +126,13 @@
 
 <br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Badges**  
+<!-- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Badges**   -->
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">
   </a>
-</div>
+</div> -->
 
 <br>
 <br>
