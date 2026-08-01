@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Naitik Agrawal</h1>
 
-<h3 align="center">A Pre-final Year Computer Engineering Undergrad</h3>
+<h3 align="center">A Final Year Computer Engineering Undergrad</h3>
 
 <div>
   
@@ -16,8 +16,7 @@
 
 
 <!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
-- 💻 I’m currently working on full-stack projects.
-- 🌱 Will be delving into AI and ML soon.
+- 💻 I’m currently working on full-stack and AI - ML Projects.
 - 📫 How to reach me: **agrawalnaitik043@gmail.com**
 <!-- - ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr" target="_blank"><img align="center" target="_blank" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30" width="80" /></a> -->
 
